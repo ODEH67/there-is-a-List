@@ -29,7 +29,7 @@ export default function Heading() {
 
     return(
         <div id='header'>
-            <h1>liSTa</h1>
+            <h1>There is a List! 👇</h1>
             <div id='head-bar'>
                 <div id="search-tool">
                     <input type="text" className="searchTerm" placeHolder="Search..." />
