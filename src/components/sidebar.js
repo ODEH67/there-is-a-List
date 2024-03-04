@@ -28,7 +28,6 @@ export default function Sidebar() {
             </div>
             <div className='menu'><Logout /></div>
             
-          
             
         </section>
     )
